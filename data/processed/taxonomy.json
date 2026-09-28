@@ -1,0 +1,1004 @@
+{
+  "terms": [
+    {
+      "id": 1,
+      "term": "primary suite",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 2,
+      "term": "floor plan",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 3,
+      "term": "living room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 4,
+      "term": "home office",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 5,
+      "term": "family room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 6,
+      "term": "dining area",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 7,
+      "term": "laundry room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 8,
+      "term": "dining room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 9,
+      "term": "main level",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 10,
+      "term": "great room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 11,
+      "term": "open floor",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 12,
+      "term": "bonus room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 13,
+      "term": "primary bedroom",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 14,
+      "term": "formal dining",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 15,
+      "term": "formal living",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 16,
+      "term": "spacious bedrooms",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 17,
+      "term": "sitting area",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 18,
+      "term": "game room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 19,
+      "term": "media room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 20,
+      "term": "open-concept layout",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 21,
+      "term": "secondary bedrooms",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 22,
+      "term": "indoor laundry",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 23,
+      "term": "laundry area",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 24,
+      "term": "en-suite bathroom",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 25,
+      "term": "breakfast nook",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 26,
+      "term": "formal dining room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 27,
+      "term": "spacious family room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 28,
+      "term": "versatile floor plan",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 29,
+      "term": "spacious floor plan",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 30,
+      "term": "indoor laundry room",
+      "category": "rooms_layout"
+    },
+    {
+      "id": 31,
+      "term": "stainless steel",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 32,
+      "term": "steel appliances",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 33,
+      "term": "granite countertops",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 34,
+      "term": "quartz countertops",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 35,
+      "term": "soaking tub",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 36,
+      "term": "walk-in shower",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 37,
+      "term": "center island",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 38,
+      "term": "custom cabinetry",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 39,
+      "term": "chef kitchen",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 40,
+      "term": "remodeled kitchen",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 41,
+      "term": "gourmet kitchen",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 42,
+      "term": "dual vanities",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 43,
+      "term": "walk-in pantry",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 44,
+      "term": "updated kitchen",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 45,
+      "term": "countertops stainless",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 46,
+      "term": "breakfast bar",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 47,
+      "term": "dual sinks",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 48,
+      "term": "counter space",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 49,
+      "term": "wet bar",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 50,
+      "term": "stainless steel appliances",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 51,
+      "term": "large center island",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 52,
+      "term": "sliding glass doors",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 53,
+      "term": "cabinetry stainless steel",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 54,
+      "term": "cabinetry granite countertops",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 55,
+      "term": "tub walk-in shower",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 56,
+      "term": "tankless water heater",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 57,
+      "term": "water heater",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 58,
+      "term": "full bathroom",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 59,
+      "term": "full bath",
+      "category": "kitchen_bath"
+    },
+    {
+      "id": 60,
+      "term": "natural light",
+      "category": "interior_features"
+    },
+    {
+      "id": 61,
+      "term": "walk-in closet",
+      "category": "interior_features"
+    },
+    {
+      "id": 62,
+      "term": "recessed lighting",
+      "category": "interior_features"
+    },
+    {
+      "id": 63,
+      "term": "vaulted ceilings",
+      "category": "interior_features"
+    },
+    {
+      "id": 64,
+      "term": "washer dryer",
+      "category": "interior_features"
+    },
+    {
+      "id": 65,
+      "term": "soaring ceilings",
+      "category": "interior_features"
+    },
+    {
+      "id": 66,
+      "term": "hardwood floors",
+      "category": "interior_features"
+    },
+    {
+      "id": 67,
+      "term": "tile flooring",
+      "category": "interior_features"
+    },
+    {
+      "id": 68,
+      "term": "air conditioning",
+      "category": "interior_features"
+    },
+    {
+      "id": 69,
+      "term": "ceiling fans",
+      "category": "interior_features"
+    },
+    {
+      "id": 70,
+      "term": "solar panels",
+      "category": "interior_features"
+    },
+    {
+      "id": 71,
+      "term": "dual-pane windows",
+      "category": "interior_features"
+    },
+    {
+      "id": 72,
+      "term": "french doors",
+      "category": "interior_features"
+    },
+    {
+      "id": 73,
+      "term": "high ceilings",
+      "category": "interior_features"
+    },
+    {
+      "id": 74,
+      "term": "walk-in closets",
+      "category": "interior_features"
+    },
+    {
+      "id": 75,
+      "term": "wood flooring",
+      "category": "interior_features"
+    },
+    {
+      "id": 76,
+      "term": "laminate flooring",
+      "category": "interior_features"
+    },
+    {
+      "id": 77,
+      "term": "glass doors",
+      "category": "interior_features"
+    },
+    {
+      "id": 78,
+      "term": "hardwood flooring",
+      "category": "interior_features"
+    },
+    {
+      "id": 79,
+      "term": "solar system",
+      "category": "interior_features"
+    },
+    {
+      "id": 80,
+      "term": "additional storage",
+      "category": "interior_features"
+    },
+    {
+      "id": 81,
+      "term": "tankless water",
+      "category": "interior_features"
+    },
+    {
+      "id": 82,
+      "term": "crown molding",
+      "category": "interior_features"
+    },
+    {
+      "id": 83,
+      "term": "central air",
+      "category": "interior_features"
+    },
+    {
+      "id": 84,
+      "term": "hvac system",
+      "category": "interior_features"
+    },
+    {
+      "id": 85,
+      "term": "ample storage",
+      "category": "interior_features"
+    },
+    {
+      "id": 86,
+      "term": "luxury vinyl",
+      "category": "interior_features"
+    },
+    {
+      "id": 87,
+      "term": "closet space",
+      "category": "interior_features"
+    },
+    {
+      "id": 88,
+      "term": "plank flooring",
+      "category": "interior_features"
+    },
+    {
+      "id": 89,
+      "term": "central air conditioning",
+      "category": "interior_features"
+    },
+    {
+      "id": 90,
+      "term": "dual pane windows",
+      "category": "interior_features"
+    },
+    {
+      "id": 91,
+      "term": "luxury vinyl plank",
+      "category": "interior_features"
+    },
+    {
+      "id": 92,
+      "term": "recessed lighting throughout",
+      "category": "interior_features"
+    },
+    {
+      "id": 93,
+      "term": "pool spa",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 94,
+      "term": "covered patio",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 95,
+      "term": "outdoor living",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 96,
+      "term": "private balcony",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 97,
+      "term": "outdoor space",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 98,
+      "term": "private backyard",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 99,
+      "term": "corner lot",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 100,
+      "term": "sparkling pool",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 101,
+      "term": "community pool",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 102,
+      "term": "beautifully landscaped",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 103,
+      "term": "private patio",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 104,
+      "term": "mature landscaping",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 105,
+      "term": "mature trees",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 106,
+      "term": "swimming pool",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 107,
+      "term": "fruit trees",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 108,
+      "term": "fully fenced",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 109,
+      "term": "front yard",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 110,
+      "term": "fire pit",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 111,
+      "term": "outdoor dining",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 112,
+      "term": "outdoor kitchen",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 113,
+      "term": "panoramic views",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 114,
+      "term": "mountain views",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 115,
+      "term": "community pool spa",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 116,
+      "term": "private balcony overlooking",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 117,
+      "term": "swimming pool spa",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 118,
+      "term": "beautifully maintained grounds",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 119,
+      "term": "mature fruit trees",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 120,
+      "term": "beautifully landscaped grounds",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 121,
+      "term": "outdoor dining entertaining",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 122,
+      "term": "seamless indoor-outdoor living",
+      "category": "outdoor_features"
+    },
+    {
+      "id": 123,
+      "term": "two-car garage",
+      "category": "parking_access"
+    },
+    {
+      "id": 124,
+      "term": "attached garage",
+      "category": "parking_access"
+    },
+    {
+      "id": 125,
+      "term": "direct access",
+      "category": "parking_access"
+    },
+    {
+      "id": 126,
+      "term": "major freeways",
+      "category": "parking_access"
+    },
+    {
+      "id": 127,
+      "term": "freeway access",
+      "category": "parking_access"
+    },
+    {
+      "id": 128,
+      "term": "parking spaces",
+      "category": "parking_access"
+    },
+    {
+      "id": 129,
+      "term": "attached two-car",
+      "category": "parking_access"
+    },
+    {
+      "id": 130,
+      "term": "commuter routes",
+      "category": "parking_access"
+    },
+    {
+      "id": 131,
+      "term": "detached garage",
+      "category": "parking_access"
+    },
+    {
+      "id": 132,
+      "term": "convenient freeway access",
+      "category": "parking_access"
+    },
+    {
+      "id": 133,
+      "term": "easy access",
+      "category": "parking_access"
+    },
+    {
+      "id": 134,
+      "term": "convenient access",
+      "category": "parking_access"
+    },
+    {
+      "id": 135,
+      "term": "attached two-car garage",
+      "category": "parking_access"
+    },
+    {
+      "id": 136,
+      "term": "easy access freeways",
+      "category": "parking_access"
+    },
+    {
+      "id": 137,
+      "term": "move-in ready",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 138,
+      "term": "beautifully maintained",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 139,
+      "term": "beautifully updated",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 140,
+      "term": "beautifully remodeled",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 141,
+      "term": "fresh interior",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 142,
+      "term": "interior paint",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 143,
+      "term": "freshly painted",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 144,
+      "term": "new flooring",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 145,
+      "term": "move-in-ready home",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 146,
+      "term": "curb appeal",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 147,
+      "term": "brand new",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 148,
+      "term": "modern finishes",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 149,
+      "term": "new roof",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 150,
+      "term": "exterior paint",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 151,
+      "term": "fresh interior paint",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 152,
+      "term": "interior exterior paint",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 153,
+      "term": "thoughtfully updated",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 154,
+      "term": "beautifully appointed",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 155,
+      "term": "beautifully updated home",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 156,
+      "term": "truly move-in ready",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 157,
+      "term": "new water heater",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 158,
+      "term": "flooring fresh interior",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 159,
+      "term": "fresh interior exterior",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 160,
+      "term": "improvements include new",
+      "category": "condition_upgrades"
+    },
+    {
+      "id": 161,
+      "term": "golf course",
+      "category": "location_community"
+    },
+    {
+      "id": 162,
+      "term": "southern california",
+      "category": "location_community"
+    },
+    {
+      "id": 163,
+      "term": "los angeles",
+      "category": "location_community"
+    },
+    {
+      "id": 164,
+      "term": "gated community",
+      "category": "location_community"
+    },
+    {
+      "id": 165,
+      "term": "fitness center",
+      "category": "location_community"
+    },
+    {
+      "id": 166,
+      "term": "san diego",
+      "category": "location_community"
+    },
+    {
+      "id": 167,
+      "term": "walking distance",
+      "category": "location_community"
+    },
+    {
+      "id": 168,
+      "term": "community amenities",
+      "category": "location_community"
+    },
+    {
+      "id": 169,
+      "term": "near shopping",
+      "category": "location_community"
+    },
+    {
+      "id": 170,
+      "term": "tennis courts",
+      "category": "location_community"
+    },
+    {
+      "id": 171,
+      "term": "school district",
+      "category": "location_community"
+    },
+    {
+      "id": 172,
+      "term": "resort-style amenities",
+      "category": "location_community"
+    },
+    {
+      "id": 173,
+      "term": "hiking trails",
+      "category": "location_community"
+    },
+    {
+      "id": 174,
+      "term": "prime location",
+      "category": "location_community"
+    },
+    {
+      "id": 175,
+      "term": "country club",
+      "category": "location_community"
+    },
+    {
+      "id": 176,
+      "term": "high school",
+      "category": "location_community"
+    },
+    {
+      "id": 177,
+      "term": "quiet cul-de-sac",
+      "category": "location_community"
+    },
+    {
+      "id": 178,
+      "term": "within walking distance",
+      "category": "location_community"
+    },
+    {
+      "id": 179,
+      "term": "located near shopping",
+      "category": "location_community"
+    },
+    {
+      "id": 180,
+      "term": "unified school district",
+      "category": "location_community"
+    },
+    {
+      "id": 181,
+      "term": "located near schools",
+      "category": "location_community"
+    },
+    {
+      "id": 182,
+      "term": "downtown los angeles",
+      "category": "location_community"
+    },
+    {
+      "id": 183,
+      "term": "spa fitness center",
+      "category": "location_community"
+    },
+    {
+      "id": 184,
+      "term": "resort-style community amenities",
+      "category": "location_community"
+    },
+    {
+      "id": 185,
+      "term": "enjoy resort-style amenities",
+      "category": "location_community"
+    },
+    {
+      "id": 186,
+      "term": "square feet",
+      "category": "property_financial"
+    },
+    {
+      "id": 187,
+      "term": "single-story home",
+      "category": "property_financial"
+    },
+    {
+      "id": 188,
+      "term": "multigenerational living",
+      "category": "property_financial"
+    },
+    {
+      "id": 189,
+      "term": "rental income",
+      "category": "property_financial"
+    },
+    {
+      "id": 190,
+      "term": "energy efficiency",
+      "category": "property_financial"
+    },
+    {
+      "id": 191,
+      "term": "investment opportunity",
+      "category": "property_financial"
+    },
+    {
+      "id": 192,
+      "term": "owned solar",
+      "category": "property_financial"
+    },
+    {
+      "id": 193,
+      "term": "main residence",
+      "category": "property_financial"
+    },
+    {
+      "id": 194,
+      "term": "low hoa",
+      "category": "property_financial"
+    },
+    {
+      "id": 195,
+      "term": "hoa dues",
+      "category": "property_financial"
+    },
+    {
+      "id": 196,
+      "term": "square footage",
+      "category": "property_financial"
+    },
+    {
+      "id": 197,
+      "term": "multi-generational living",
+      "category": "property_financial"
+    },
+    {
+      "id": 198,
+      "term": "square foot lot",
+      "category": "property_financial"
+    },
+    {
+      "id": 199,
+      "term": "low hoa dues",
+      "category": "property_financial"
+    },
+    {
+      "id": 200,
+      "term": "square foot",
+      "category": "property_financial"
+    }
+  ]
+}

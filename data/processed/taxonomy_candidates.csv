@@ -1,0 +1,501 @@
+term,frequency,type
+primary suite,328,bigram
+floor plan,319,bigram
+living space,302,bigram
+home offers,285,bigram
+natural light,275,bigram
+living room,264,bigram
+shopping dining,216,bigram
+square feet,189,bigram
+stainless steel,178,bigram
+walk-in closet,169,bigram
+conveniently located,165,bigram
+home features,163,bigram
+home office,155,bigram
+everyday living,153,bigram
+family room,153,bigram
+steel appliances,152,bigram
+dining area,151,bigram
+located near,150,bigram
+bedrooms bathrooms,140,bigram
+pool spa,132,bigram
+thoughtfully designed,130,bigram
+laundry room,126,bigram
+easy access,121,bigram
+rare opportunity,118,bigram
+living entertaining,111,bigram
+living spaces,110,bigram
+granite countertops,109,bigram
+move-in ready,108,bigram
+property offers,104,bigram
+kitchen features,97,bigram
+two-car garage,96,bigram
+recessed lighting,96,bigram
+abundant natural,94,bigram
+quartz countertops,94,bigram
+step outside,93,bigram
+soaking tub,93,bigram
+living dining,92,bigram
+amenities including,92,bigram
+living areas,92,bigram
+beautifully maintained,90,bigram
+ideally located,88,bigram
+approximately square,86,bigram
+highly desirable,86,bigram
+plenty room,85,bigram
+vaulted ceilings,84,bigram
+spacious primary,84,bigram
+living area,83,bigram
+perfect blend,83,bigram
+offers perfect,82,bigram
+generously sized,82,bigram
+comfortable living,81,bigram
+step inside,80,bigram
+highlights include,79,bigram
+dining room,78,bigram
+golf course,78,bigram
+covered patio,77,bigram
+residence offers,77,bigram
+outdoor living,77,bigram
+washer dryer,77,bigram
+spacious living,76,bigram
+main level,75,bigram
+full bath,75,bigram
+additional highlights,75,bigram
+convenient access,74,bigram
+great room,74,bigram
+open floor,73,bigram
+bonus room,72,bigram
+southern california,72,bigram
+private balcony,72,bigram
+water heater,71,bigram
+beautifully updated,71,bigram
+additional bedrooms,70,bigram
+attached garage,70,bigram
+outdoor space,69,bigram
+los angeles,69,bigram
+throughout home,69,bigram
+direct access,68,bigram
+gated community,68,bigram
+fitness center,68,bigram
+flooring throughout,66,bigram
+main living,66,bigram
+morning coffee,65,bigram
+residents enjoy,65,bigram
+comfort convenience,64,bigram
+bedroom full,63,bigram
+soaring ceilings,63,bigram
+heart home,62,bigram
+beautifully remodeled,62,bigram
+features include,61,bigram
+suite offers,61,bigram
+hardwood floors,60,bigram
+walk-in shower,60,bigram
+mountain views,60,bigram
+center island,59,bigram
+full bathroom,59,bigram
+private backyard,59,bigram
+san diego,58,bigram
+formal dining,57,bigram
+walking distance,57,bigram
+home also,57,bigram
+primary bedroom,56,bigram
+community amenities,56,bigram
+indoor-outdoor living,55,bigram
+corner lot,55,bigram
+custom cabinetry,55,bigram
+chef kitchen,54,bigram
+cozy fireplace,54,bigram
+car garage,53,bigram
+located within,53,bigram
+remodeled kitchen,53,bigram
+relaxing entertaining,52,bigram
+gourmet kitchen,52,bigram
+dining areas,51,bigram
+tile flooring,51,bigram
+major freeways,51,bigram
+family guests,50,bigram
+bedroom bathroom,50,bigram
+fresh interior,50,bigram
+plenty space,49,bigram
+two additional,49,bigram
+private retreat,49,bigram
+interior paint,49,bigram
+features bedrooms,48,bigram
+formal living,48,bigram
+feet living,48,bigram
+opportunity enjoy,48,bigram
+spacious bedrooms,48,bigram
+offers exceptional,48,bigram
+dual vanities,47,bigram
+freeway access,47,bigram
+air conditioning,47,bigram
+walk-in pantry,46,bigram
+also includes,46,bigram
+near shopping,46,bigram
+updated kitchen,46,bigram
+extended family,45,bigram
+flows seamlessly,44,bigram
+ceiling fans,44,bigram
+offers bedrooms,44,bigram
+single-story home,43,bigram
+sparkling pool,43,bigram
+countertops stainless,43,bigram
+solar panels,42,bigram
+amenities include,42,bigram
+sliding glass,42,bigram
+filled natural,42,bigram
+highly sought-after,42,bigram
+parking spaces,42,bigram
+tennis courts,42,bigram
+energy efficiency,41,bigram
+community pool,41,bigram
+beautifully landscaped,41,bigram
+breakfast bar,41,bigram
+dual-pane windows,41,bigram
+schools shopping,41,bigram
+private patio,41,bigram
+within walking,41,bigram
+french doors,41,bigram
+home located,40,bigram
+exceptional opportunity,40,bigram
+square foot,40,bigram
+multigenerational living,40,bigram
+located minutes,40,bigram
+wonderful opportunity,40,bigram
+school district,40,bigram
+guests home,40,bigram
+rental income,40,bigram
+plan features,39,bigram
+high ceilings,39,bigram
+offers approximately,39,bigram
+walk-in closets,39,bigram
+blend comfort,39,bigram
+resort-style amenities,39,bigram
+welcome beautifully,39,bigram
+dual sinks,39,bigram
+warm inviting,38,bigram
+attached two-car,38,bigram
+wood flooring,38,bigram
+laminate flooring,38,bigram
+mature landscaping,37,bigram
+peace mind,37,bigram
+room features,37,bigram
+freshly painted,37,bigram
+home offering,37,bigram
+bedrooms full,37,bigram
+miss opportunity,37,bigram
+space home,37,bigram
+mature trees,37,bigram
+new flooring,37,bigram
+endless possibilities,37,bigram
+welcome home,36,bigram
+additional features,36,bigram
+bedroom bath,36,bigram
+swimming pool,36,bigram
+prime location,36,bigram
+move-in-ready home,36,bigram
+kitchen dining,36,bigram
+fruit trees,36,bigram
+residence features,36,bigram
+also features,36,bigram
+family friends,36,bigram
+ideally situated,36,bigram
+main residence,35,bigram
+spacious kitchen,35,bigram
+relax entertain,35,bigram
+low hoa,35,bigram
+full bathrooms,35,bigram
+curb appeal,35,bigram
+hoa dues,35,bigram
+home one,35,bigram
+bright open,35,bigram
+upgrades include,35,bigram
+property features,34,bigram
+glass doors,34,bigram
+indoor outdoor,34,bigram
+hardwood flooring,34,bigram
+hiking trails,34,bigram
+come see,34,bigram
+brand new,34,bigram
+outdoor dining,34,bigram
+counter space,34,bigram
+solar system,33,bigram
+investment opportunity,33,bigram
+designed living,33,bigram
+owned solar,33,bigram
+additional storage,33,bigram
+opportunity one,33,bigram
+offering approximately,33,bigram
+bedrooms baths,33,bigram
+sitting area,33,bigram
+features spacious,32,bigram
+spacious home,32,bigram
+ample space,32,bigram
+inviting living,32,bigram
+fully fenced,32,bigram
+tankless water,32,bigram
+front yard,32,bigram
+crown molding,32,bigram
+suite features,32,bigram
+kitchen offers,32,bigram
+improvements include,31,bigram
+three bedrooms,31,bigram
+fire pit,31,bigram
+home combines,31,bigram
+open-concept layout,31,bigram
+outdoor kitchen,31,bigram
+suite includes,31,bigram
+whether looking,31,bigram
+square footage,31,bigram
+modern finishes,31,bigram
+dining entertainment,31,bigram
+high school,31,bigram
+flexibility guests,31,bigram
+front door,31,bigram
+commuter routes,30,bigram
+game room,30,bigram
+detached garage,30,bigram
+closet space,30,bigram
+minutes away,30,bigram
+perfect setting,30,bigram
+quiet cul-de-sac,30,bigram
+offers rare,30,bigram
+panoramic views,30,bigram
+secondary bedrooms,30,bigram
+tub separate,30,bigram
+indoor laundry,30,bigram
+plank flooring,30,bigram
+media room,30,bigram
+multi-generational living,29,bigram
+include new,29,bigram
+central air,29,bigram
+dining parks,29,bigram
+hvac system,29,bigram
+laundry area,29,bigram
+exceptional home,29,bigram
+designed everyday,29,bigram
+en-suite bathroom,29,bigram
+room dining,29,bigram
+thoughtfully updated,29,bigram
+dining living,29,bigram
+interior exterior,29,bigram
+added privacy,29,bigram
+country club,29,bigram
+ample storage,29,bigram
+luxury vinyl,29,bigram
+dining shopping,28,bigram
+kitchen featuring,28,bigram
+breakfast nook,28,bigram
+close proximity,28,bigram
+open-concept floor,28,bigram
+beautifully appointed,28,bigram
+also offers,28,bigram
+offers plenty,28,bigram
+wet bar,28,bigram
+great opportunity,28,bigram
+added convenience,28,bigram
+new roof,28,bigram
+feels like,28,bigram
+exterior paint,28,bigram
+location location,28,bigram
+stainless steel appliances,152,trigram
+conveniently located near,100,trigram
+abundant natural light,94,trigram
+everyday living entertaining,87,trigram
+approximately square feet,82,trigram
+additional highlights include,73,trigram
+open floor plan,72,trigram
+spacious primary suite,70,trigram
+offers perfect blend,59,trigram
+primary suite offers,58,trigram
+home offers perfect,51,trigram
+square feet living,48,trigram
+feet living space,47,trigram
+living dining areas,43,trigram
+within walking distance,41,trigram
+filled natural light,41,trigram
+countertops stainless steel,40,trigram
+located near shopping,39,trigram
+floor plan features,38,trigram
+comfortable living space,38,trigram
+attached two-car garage,38,trigram
+formal dining room,37,trigram
+guests home office,37,trigram
+additional features include,36,trigram
+fresh interior paint,36,trigram
+bedroom full bath,33,trigram
+two additional bedrooms,33,trigram
+spacious living room,32,trigram
+near shopping dining,32,trigram
+ideally located near,31,trigram
+features bedrooms bathrooms,30,trigram
+thoughtfully designed living,30,trigram
+primary suite features,30,trigram
+tankless water heater,29,trigram
+primary suite includes,29,trigram
+designed living space,29,trigram
+offers bedrooms bathrooms,29,trigram
+formal living room,28,trigram
+open-concept floor plan,28,trigram
+functional floor plan,27,trigram
+shopping dining entertainment,27,trigram
+shopping dining parks,26,trigram
+perfect blend comfort,26,trigram
+granite countertops stainless,26,trigram
+large center island,26,trigram
+soaking tub separate,26,trigram
+living room features,25,trigram
+resort-style amenities including,25,trigram
+offers approximately square,24,trigram
+designed everyday living,24,trigram
+community amenities including,24,trigram
+offers square feet,24,trigram
+sliding glass doors,23,trigram
+indoor outdoor living,23,trigram
+schools shopping dining,23,trigram
+home features bedrooms,22,trigram
+bedroom full bathroom,22,trigram
+luxurious primary suite,22,trigram
+square feet thoughtfully,22,trigram
+unified school district,22,trigram
+vinyl plank flooring,22,trigram
+spacious family room,21,trigram
+generously sized bedrooms,21,trigram
+square feet comfortable,21,trigram
+feet comfortable living,21,trigram
+offering approximately square,21,trigram
+features granite countertops,21,trigram
+floor plan offers,21,trigram
+abundance natural light,20,trigram
+large walk-in closet,20,trigram
+shopping dining schools,20,trigram
+versatile floor plan,20,trigram
+interior exterior paint,20,trigram
+space everyday living,20,trigram
+step outside private,19,trigram
+spacious floor plan,19,trigram
+place call home,19,trigram
+parks shopping dining,19,trigram
+main living areas,19,trigram
+kitchen features granite,19,trigram
+feet thoughtfully designed,19,trigram
+thoughtfully designed floor,18,trigram
+primary suite serves,18,trigram
+ceilings abundant natural,18,trigram
+primary suite private,18,trigram
+offers plenty room,18,trigram
+primary suite true,18,trigram
+perfect relaxing entertaining,18,trigram
+community pool spa,18,trigram
+living room dining,18,trigram
+room dining area,18,trigram
+dining living areas,18,trigram
+home also features,18,trigram
+family guests home,18,trigram
+beautifully maintained home,18,trigram
+formal living dining,18,trigram
+spa fitness center,18,trigram
+home natural light,18,trigram
+tub separate shower,18,trigram
+designed floor plan,17,trigram
+seamless indoor-outdoor living,17,trigram
+floor plan includes,17,trigram
+bedrooms full bathrooms,17,trigram
+step inside discover,17,trigram
+located near schools,17,trigram
+central air conditioning,17,trigram
+approximately living space,17,trigram
+beautifully updated home,17,trigram
+low hoa dues,17,trigram
+private showing today,17,trigram
+shopping dining major,17,trigram
+versatile bonus room,16,trigram
+schedule private showing,16,trigram
+square foot lot,16,trigram
+flexibility family guests,16,trigram
+private primary suite,16,trigram
+located highly desirable,16,trigram
+downtown los angeles,16,trigram
+outdoor dining entertaining,16,trigram
+cabinetry stainless steel,16,trigram
+heating air conditioning,16,trigram
+flooring recessed lighting,16,trigram
+sliding glass door,16,trigram
+access shopping dining,16,trigram
+pool spa fitness,16,trigram
+guests extended family,16,trigram
+flooring fresh interior,16,trigram
+ideal everyday living,16,trigram
+private balcony overlooking,16,trigram
+expansive primary suite,16,trigram
+indoor laundry room,16,trigram
+southern california living,15,trigram
+morning coffee evening,15,trigram
+spacious living dining,15,trigram
+dedicated laundry room,15,trigram
+guests multigenerational living,15,trigram
+living space home,15,trigram
+dual pane windows,15,trigram
+floor plan designed,15,trigram
+truly move-in ready,15,trigram
+beautifully maintained grounds,15,trigram
+mature fruit trees,15,trigram
+soaring vaulted ceilings,15,trigram
+offering bedrooms bathrooms,15,trigram
+southern california lifestyle,15,trigram
+luxury vinyl plank,15,trigram
+living room fireplace,14,trigram
+schools parks shopping,14,trigram
+additional living space,14,trigram
+presents rare opportunity,14,trigram
+living dining area,14,trigram
+downstairs bedroom full,14,trigram
+living space bedrooms,14,trigram
+space home office,14,trigram
+formal dining area,14,trigram
+two car garage,14,trigram
+convenient freeway access,14,trigram
+fresh interior exterior,14,trigram
+enjoy morning coffee,14,trigram
+spacious home offers,14,trigram
+home offers bedrooms,14,trigram
+bedroom bathroom home,14,trigram
+inviting living room,14,trigram
+living room anchored,14,trigram
+suite offers private,14,trigram
+offering square feet,14,trigram
+main living area,14,trigram
+community amenities include,14,trigram
+natural light throughout,13,trigram
+residence offers approximately,13,trigram
+living dining rooms,13,trigram
+outside private backyard,13,trigram
+space relax entertain,13,trigram
+warm inviting atmosphere,13,trigram
+suite true retreat,13,trigram
+dining area kitchen,13,trigram
+one southern california,13,trigram
+cabinetry granite countertops,13,trigram
+bright open floor,13,trigram
+space natural light,13,trigram
+location location location,13,trigram
+natural light creating,13,trigram
+spacious living areas,13,trigram
+bathrooms square feet,13,trigram
+swimming pool spa,13,trigram
+enjoy resort-style amenities,13,trigram
+recessed lighting throughout,13,trigram
+new water heater,13,trigram
+resort-style community amenities,13,trigram
+offers easy access,13,trigram
+generous walk-in closet,13,trigram
+enjoy easy access,13,trigram
+blend comfort convenience,13,trigram
+easy access freeways,13,trigram
+tub walk-in shower,13,trigram
+extended family guests,12,trigram
+improvements include new,12,trigram
+ample closet space,12,trigram
+beautifully landscaped grounds,12,trigram
+home offers approximately,12,trigram

@@ -1,0 +1,51 @@
+query,intent
+show me homes in San Diego,browsing
+homes with pools in Irvine,browsing
+luxury homes in Beverly Hills,browsing
+houses with large backyards in Orange County,browsing
+condos in downtown Los Angeles,browsing
+homes near the beach in Southern California,browsing
+three bedroom homes in Tustin,browsing
+single story homes in Moreno Valley,browsing
+homes with mountain views,browsing
+houses with a two car garage,browsing
+homes with an open floor plan,browsing
+properties with a private backyard,browsing
+homes with a primary suite,browsing
+houses with hardwood floors,browsing
+homes with a covered patio,browsing
+properties in gated communities,browsing
+homes near golf courses,browsing
+houses with a home office,browsing
+homes with a bonus room,browsing
+properties with panoramic views,browsing
+condos near UC Irvine with low HOA,researching
+areas in San Diego with low property taxes,researching
+which neighborhoods have good freeway access,researching
+homes near highly rated school districts,researching
+what areas have gated communities and fitness centers,researching
+compare homes with solar panels and energy efficient features,researching
+what neighborhoods have homes within walking distance of shopping,researching
+areas with community pools and tennis courts,researching
+homes near hiking trails and parks,researching
+which areas have the most single story homes,researching
+compare HOA dues for communities in Irvine,researching
+what neighborhoods have country club access,researching
+areas with newer remodeled homes,researching
+which homes have rental income potential,researching
+compare properties with owned solar versus leased solar,researching
+move-in ready homes in San Diego under 1.2m,high_intent_inquiry
+homes available this weekend with open houses,high_intent_inquiry
+new listings in Irvine under 900k with seller financing,high_intent_inquiry
+show me homes under 750000 with three bedrooms and two bathrooms,high_intent_inquiry
+find a move-in ready home with a two car garage,high_intent_inquiry
+homes under 1 million with a private pool and backyard,high_intent_inquiry
+show listings with low HOA dues under 800000,high_intent_inquiry
+find homes with a primary suite and walk-in closet under 950000,high_intent_inquiry
+show homes with an updated kitchen and new roof,high_intent_inquiry
+find properties with rental income under 1.5m,high_intent_inquiry
+show homes with solar panels and central air under 850000,high_intent_inquiry
+find homes near good schools with at least four bedrooms,high_intent_inquiry
+show houses with an attached garage and open floor plan under 900000,high_intent_inquiry
+find homes with a pool and spa available now,high_intent_inquiry
+show me newly listed homes in Irvine with low HOA and three bedrooms,high_intent_inquiry

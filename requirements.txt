@@ -1,5 +1,7 @@
-mysql-connector-python==8.0.33
+numpy==1.25.2
 pandas==2.0.3
+matplotlib==3.7.5
+mysql-connector-python==8.0.33
 nltk==3.8.1
 spacy==3.6.0
 pytest==7.4.0
