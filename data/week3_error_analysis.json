@@ -1,0 +1,109 @@
+[
+  {
+    "id": 6,
+    "text": "Welcome to this beautifully maintained 2021-built home in the desirable Spring Mountain Ranch community! Offering 5 bedrooms, 3 full bathrooms, and approximately 2,889 square feet of thoughtfully designed living space, this two-story residence blends modern style with everyday functionality. The open-concept floor plan features a spacious great room, a gourmet kitchen with granite countertops, a large center island, stainless steel appliances, and abundant cabinetry-perfect for entertaining and family gatherings. A convenient main-floor bedroom and full bathroom provide flexibility for guests or multi-generational living. Upstairs, you'll find a generous primary suite with a spa-inspired bathroom featuring dual vanities, a separate shower, and a spacious walk-in closet. Additional bedrooms are generously sized, and the upstairs laundry room adds everyday convenience. The home also features energy-efficient solar panels, central air and heat, a two-car attached garage, and a private backyard ready for outdoor enjoyment. Situated on a 7971 square feet. lot with beautiful mountain and city light views, this home is located in a vibrant community with parks, playgrounds, picnic areas, and sidewalks. Conveniently close to major freeways, shopping, dining, schools, and the University of California, Riverside, this turnkey home offers comfort, style, and an exceptional location",
+    "false_positives": [],
+    "false_negatives": [
+      [
+        1049,
+        1065,
+        "SQFT"
+      ]
+    ]
+  },
+  {
+    "id": 112,
+    "text": "NOW AVAILABLE - PRICED TO SELL IN THE FAIRWAYS AT REDHAWK! Welcome to this beautifully upgraded home located in the highly sought-after gated community of The Fairways at Redhawk in South Temecula. Situated on a desirable corner lot, this spacious two-story home offers approximately 2478 square feet of living space with 4 bedrooms and 2.5 bathrooms, combining comfort, style, and functionality in an exceptional South Temecula location. Step inside to a bright and inviting floor plan featuring granite kitchen countertops, tile and laminate wood flooring, and generous living spaces designed for everyday living and entertaining. The spacious kitchen features a large center island and opens directly to the family room with a cozy fireplace, creating a natural gathering place for family and friends. The main level includes a formal living room, spacious family room, open kitchen, and convenient guest half-bathroom. Upstairs are all four bedrooms, two full bathrooms, and an indoor laundry room. The generously sized primary suite offers abundant natural light and plenty of room to unwind. Step outside to a private, low-maintenance backyard featuring a covered patio, perfect for outdoor dining, relaxing, and entertaining with minimal upkeep. The desirable corner-lot setting and direct-access two-car garage add even more convenience and functionality. Located in the prestigious Fairways at Redhawk, a gated community surrounded by the beautiful Redhawk Golf Course, this home puts you in the heart of the South Temecula lifestyle. Enjoy convenient access to highly regarded Temecula schools, parks, shopping, dining, and the I-15 freeway, with Temecula Wine Country, Pechanga Resort Casino, and Old Town Temecula all just minutes away. A fantastic opportunity to own a spacious upgraded home in The Fairways at Redhawk - PRICED TO SELL AND READY FOR ITS NEXT OWNER!",
+    "false_positives": [
+      [
+        940,
+        953,
+        "BEDROOMS"
+      ],
+      [
+        955,
+        973,
+        "BATHROOMS"
+      ]
+    ],
+    "false_negatives": []
+  },
+  {
+    "id": 197,
+    "text": "Location, Location, Location! Just nine lots from the glistening Pacific Ocean, this stunning Pierpont Bay Beach home offers unobstructed ocean and island views in one of Ventura's most sought-after beach communities. Located on desirable Marthas Vineyard Court, these rare street-to-street view homes are seldom available, making this an exceptional opportunity to own in this coveted coastal neighborhood. The versatile floor plan features a beautifully remodeled kitchen on the first floor, a dining room with French doors opening to a creatively designed, spacious patio ideal for entertaining, a remodeled bathroom, and three bedrooms--one currently utilized as a media/guest room with an adjoining half bathroom. Upstairs, prepare to be captivated by some of the most spectacular ocean, beach, and mountain views Pierpont Bay has to offer. Enjoy breathtaking sunrises and sunsets, watch sailboats drift across the horizon, and take in the stunning island vistas from the comfort of your own home. Additional highlights include a two-car garage and driveway with parking for two additional vehicles, owned solar panels, a Tesla battery, EV charging, a fire pit, and loads of extra storage! Ideally located across from Pierpont Elementary School and just a short distance to the Ventura Harbor, Marina Park, and San Buenaventura State Beach, where scenic walkways and bike paths lead to the California Street Promenade, the Ventura Pier, the Ventura County Fairgrounds, Surfers Point, and charming historic downtown Ventura with its shops, restaurants, and vibrant coastal atmosphere. Continue along the coastline and the path stretches all the way to Carpinteria and Santa Barbara, or head inland to the beautiful Ojai Valley. Don't miss this rare opportunity to own your dream home and embrace the exceptional Pierpont Bay Beach lifestyle.",
+    "false_positives": [
+      [
+        625,
+        639,
+        "BEDROOMS"
+      ]
+    ],
+    "false_negatives": []
+  },
+  {
+    "id": 184,
+    "text": "Welcome to your NEWLY BUILT 2026 Luxurious Single-Story residence ideally located in the PRIME LOCATION of Temple City, known for its award-winning schools & exceptional convenience. The impressive curb appeal features vibrant landscaping, a brand-new long driveway, & a charming porch that creates a warm & welcoming first impression. Inside, the thoughtfully designed open & functional floor plan offers 5 bedrooms & 5 full bathrooms, including a detached studio ADU ideal for guests, extended family, or flexible living space. Majority of the house is Just Newly Rebuilt! High ceilings & designer finishes enhance the interior, complemented by numerous new upgrades including chevron flooring, contemporary brass lighting fixtures, custom cabinetry, dual-pane windows, LED recessed lighting, new doors, premium hardware, elegant details, & much more! The spacious living room with a stylish fireplace flows seamlessly into the dining room and gourmet kitchen. The kitchen features state-of-the-art appliances, dual sinks, a large center island with seating, and a generous pantry, making it ideal for both daily living & entertaining. Abundant natural light fills the home through dual-pane windows, creating a bright and comfortable atmosphere throughout. The primary suite serves as a private retreat with a large walk-in closet & spa-inspired bathroom featuring dual vanities, a soaking tub, & direct access to the backyard. Additional highlights include an oversized garage with ample storage and a convenient interior laundry area. The spacious backyard offers fruit trees and landscaped outdoor areas, providing an inviting setting for entertaining, relaxing, or creating your dream garden. Savor exquisite local fine dining experiences (Michelin Guide: Bistro Na's) explore nearby supermarkets such as Ralph's, Great Wall Supermarket, 99 Ranch, & Hmart, and enjoy the vibrant local entertainment scene. For outdoor enthusiasts, there are beautiful hiking trails to explore, recreational activities at Live Oak Park, & nearby golf courses to enjoy. Families will appreciate the proximity to prestigious Temple City Award-Winning Schools, providing an exceptional educational experience for students. With easy access to the 10, 605, & 210 freeways, this home places Downtown Los Angeles and the rest of Southern California within reach. Schedule a tour today & discover your happiest life at this remarkable property in one of Temple City's most desirable neighborhoods!",
+    "false_positives": [
+      [
+        419,
+        435,
+        "BATHROOMS"
+      ]
+    ],
+    "false_negatives": []
+  },
+  {
+    "id": 104,
+    "text": "Experience the elegance of this rare and extensively updated Tapestry model home, ideally situated in a coveted corner location that floods the residence with natural light. Offering an expansive 2,415 square feet of beautifully designed living space, this exceptional home features 4 bedrooms and 4 bathrooms, providing the perfect blend of comfort, style, and luxury. The welcoming entry sitting room showcases a gas fireplace, oversized windows, and soaring 15-foot ceilings, flowing seamlessly into a formal dining area with custom built-ins. New tile and wood flooring throughout the home create a fresh, modern aesthetic and elevate its sophisticated appeal. The beautifully updated gourmet kitchen features brand-new stainless steel appliances, modern finishes, a center island with breakfast bar seating, and ample cabinetry. The kitchen opens to a cozy family room with a private balcony, perfect for BBQs and outdoor entertaining. The second floor features three spacious bedrooms, including two with en-suite bathrooms, as well as a large office with vaulted ceilings, offering flexible living space for family, guests, or working from home. The private top-level primary suite provides ultimate tranquility with no common walls, stunning city-light views, a generous walk-in closet, and a luxurious spa-inspired bathroom. Additional highlights include a two-car direct-access garage and a spacious laundry room with a sink, abundant storage and closet space, windows for natural light, and an extra-large washer and dryer. Residents enjoy access to an impressive array of resort-style community amenities, including a daily shuttle service, clubhouse, pools, spa, fitness center, conference room, theater, basketball courts, playgrounds, dog parks, and 24-hour patrol security. The home is also located within a highly regarded school district and is conveniently close to excellent restaurants, shopping, and entertainment. Extensively updated with new tile and wood flooring throughout, a remodeled kitchen featuring brand-new stainless steel appliances, and a highly desirable corner location, this move-in-ready home offers the perfect combination of luxury, comfort, convenience, and resort-style living.",
+    "false_positives": [
+      [
+        1664,
+        1669,
+        "AMENITY"
+      ]
+    ],
+    "false_negatives": []
+  },
+  {
+    "id": 200,
+    "text": "Significant price reduction ! Seller is open to offers , owner financing and joint venture . This exceptional zoned industrial property in San Bernardino County is perfect for any investor. It features the main house and duplex on site, situated on an approximately 41580 square feet lot. The zoning regulations allow for various uses . Currently being used as a front residential home with back duplex and garage conversion. All tenants are on a month to month lease. Front home features 4Br. 2 Full baths. Family and living room. Kitchen has been updated. Laminate flooring throughout. Back duplex has had a few upgrades in the last two years. Garage has been converted to a studio apartment. Each unit has laundry hook ups. Front tenant manages and maintains the property and has an agreement with the owner . Total potential monthly gross income ranges from $6000-$7000 a month. All this information has been provided but not guaranteed. Buyer is advised to inspect property and check all information pertaining to permits and or building requirements.",
+    "false_positives": [
+      [
+        494,
+        506,
+        "BATHROOMS"
+      ]
+    ],
+    "false_negatives": [
+      [
+        266,
+        283,
+        "SQFT"
+      ]
+    ]
+  },
+  {
+    "id": 216,
+    "text": "Welcome to Canyon Lake living! This beautifully situated 3-bedroom, 2-bathroom condominium offers a comfortable and low-maintenance lifestyle in one of Southern California's premier gated, resort-style communities. The inviting floor plan features a spacious living area filled with natural light, a well-appointed kitchen with ample cabinetry and counter space, generous-sized bedrooms, and a private balcony that's perfect for relaxing or enjoying your morning coffee. Whether you're looking for a full-time residence, weekend getaway, or investment opportunity, this home provides the perfect blend of comfort and convenience. Enjoy all that Canyon Lake has to offer, including private lake access for boating, fishing, waterskiing, paddleboarding, and kayaking, along with an 18-hole golf course, community pools, parks, beaches, pickleball and tennis courts, equestrian center, clubhouse, waterfront dining, and year-round community events. Conveniently located near shopping, restaurants, schools, and commuter routes, this is your opportunity to experience the Canyon Lake lifestyle.",
+    "false_positives": [
+      [
+        811,
+        816,
+        "AMENITY"
+      ]
+    ],
+    "false_negatives": []
+  },
+  {
+    "id": 247,
+    "text": "Turnkey! Cul-de-sac! University Grove! Beautifully maintained 5-bedroom, 3-bathroom home offering 3086 square feet. on a 7274 square feet. lot in the highly desirable University Grove community. Built in 2002 with a low $90/month HOA and located in the acclaimed Redlands Unified School District. Fresh interior paint and newer carpet make this home move-in ready. Flexible floor plan features a downstairs bedroom and full bathroom, ideal for guests, multigenerational living, or a home office. Bright, open living spaces flow into a spacious kitchen with center island, built-in wine fridge, walk-in pantry, and abundant cabinetry. The living room includes a cozy fireplace. Upstairs offers a spacious primary suite with sitting area potential, dual vanities, soaking tub, separate shower, and walk-in closet, plus three additional bedrooms, a built-in office/flex room, and a large game room. Enjoy a tropical-inspired backyard with covered patio, mature landscaping & room to entertain. Additional features include an oversized laundry room with extensive storage and a 3-car tandem garage with built-in cabinets. Conveniently located near parks, shopping, dining, fitness centers, and major commuter routes.",
+    "false_positives": [],
+    "false_negatives": [
+      [
+        121,
+        137,
+        "SQFT"
+      ]
+    ]
+  }
+]
