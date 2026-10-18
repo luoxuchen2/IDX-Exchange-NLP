@@ -1,0 +1,51 @@
+Query,Expected,Predicted,Correct
+3 bed,{'bedrooms': 3},{'bedrooms': 3},True
+4 bedrooms,{'bedrooms': 4},{'bedrooms': 4},True
+2br,{'bedrooms': 2},{'bedrooms': 2},True
+3+ beds,{'bedrooms_min': 3},{'bedrooms_min': 3},True
+at least 4 bedrooms,{'bedrooms_min': 4},{'bedrooms_min': 4},True
+up to 5 bedrooms,{'bedrooms_max': 5},{'bedrooms_max': 5},True
+max 2 beds,{'bedrooms_max': 2},{'bedrooms_max': 2},True
+min 3 beds,{'bedrooms_min': 3},{'bedrooms_min': 3},True
+2 bathrooms,{'bathrooms': 2},{'bathrooms': 2},True
+3 bath,{'bathrooms': 3},{'bathrooms': 3},True
+2ba,{'bathrooms': 2},{'bathrooms': 2},True
+2+ bathrooms,{'bathrooms_min': 2},{'bathrooms_min': 2},True
+at least 2 baths,{'bathrooms_min': 2},{'bathrooms_min': 2},True
+3.5 baths,{'bathrooms': 3.5},{'bathrooms': 3.5},True
+under 700k,{'price_max': 700000},{'price_max': 700000},True
+below $800k,{'price_max': 800000},{'price_max': 800000},True
+"under $1,000,000",{'price_max': 1000000},{'price_max': 1000000},True
+under 1.2m,{'price_max': 1200000},{'price_max': 1200000},True
+less than 600k,{'price_max': 600000},{'price_max': 600000},True
+up to 900k,{'price_max': 900000},{'price_max': 900000},True
+over 500k,{'price_min': 500000},{'price_min': 500000},True
+"above $600,000",{'price_min': 600000},{'price_min': 600000},True
+at least 750k,{'price_min': 750000},{'price_min': 750000},True
+between 400k and 700k,"{'price_min': 400000, 'price_max': 700000}","{'price_min': 400000, 'price_max': 700000}",True
+from 500k to 900k,"{'price_min': 500000, 'price_max': 900000}","{'price_min': 500000, 'price_max': 900000}",True
+in Irvine,{'city': 'Irvine'},{'city': 'Irvine'},True
+in Beverly Hills,{'city': 'Beverly Hills'},{'city': 'Beverly Hills'},True
+in Los Angeles,{'city': 'Los Angeles'},{'city': 'Los Angeles'},True
+near Newport Beach,{'city': 'Newport Beach'},{'city': 'Newport Beach'},True
+in Lathrop,{'city': 'Lathrop'},{'city': 'Lathrop'},True
+with pool,{'amenities': ['pool']},{'amenities': ['pool']},True
+with garage,{'amenities': ['garage']},{'amenities': ['garage']},True
+with fireplace,{'amenities': ['fireplace']},{'amenities': ['fireplace']},True
+with balcony,{'amenities': ['balcony']},{'amenities': ['balcony']},True
+with patio,{'amenities': ['patio']},{'amenities': ['patio']},True
+with parking,{'amenities': ['parking']},{'amenities': ['parking']},True
+with backyard,{'amenities': ['backyard']},{'amenities': ['yard']},False
+without pool,{'exclude_amenities': ['pool']},{'exclude_amenities': ['pool']},True
+no garage,{'exclude_amenities': ['garage']},{'exclude_amenities': ['garage']},True
+exclude fireplace,{'exclude_amenities': ['fireplace']},{'exclude_amenities': ['fireplace']},True
+3 bed under 700k,"{'bedrooms': 3, 'price_max': 700000}","{'price_max': 700000, 'bedrooms': 3}",True
+4 bedrooms below 900k,"{'bedrooms': 4, 'price_max': 900000}","{'price_max': 900000, 'bedrooms': 4}",True
+2+ beds under 500k,"{'bedrooms_min': 2, 'price_max': 500000}","{'price_max': 500000, 'bedrooms_min': 2}",True
+3 bed in Irvine,"{'bedrooms': 3, 'city': 'Irvine'}","{'bedrooms': 3, 'city': 'Irvine'}",True
+4 bed in Lathrop under 1m,"{'bedrooms': 4, 'city': 'Lathrop', 'price_max': 1000000}","{'price_max': 1000000, 'bedrooms': 4, 'city': 'Lathrop'}",True
+2 bed with pool,"{'bedrooms': 2, 'amenities': ['pool']}","{'bedrooms': 2, 'amenities': ['pool']}",True
+3 bed without garage,"{'bedrooms': 3, 'exclude_amenities': ['garage']}","{'bedrooms': 3, 'exclude_amenities': ['garage']}",True
+2 bath under 800k,"{'bathrooms': 2, 'price_max': 800000}","{'price_max': 800000, 'bathrooms': 2}",True
+3 beds 2 baths,"{'bedrooms': 3, 'bathrooms': 2}","{'bedrooms': 3, 'bathrooms': 2}",True
+3 bed under 700k in Irvine,"{'bedrooms': 3, 'price_max': 700000, 'city': 'Irvine'}","{'price_max': 700000, 'bedrooms': 3, 'city': 'Irvine'}",True
