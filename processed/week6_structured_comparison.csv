@@ -1,0 +1,7 @@
+Version,Field,Correct,Extracted,Reference Available,Exact Match Accuracy,Coverage
+Original,Bedrooms,16,18,25,0.8888888888888888,0.72
+Original,Bathrooms,11,19,25,0.5789473684210527,0.76
+Original,Price,0,1,25,0.0,0.04
+Updated,Bedrooms,16,18,25,0.8888888888888888,0.72
+Updated,Bathrooms,11,19,25,0.5789473684210527,0.76
+Updated,Price,0,1,25,0.0,0.04

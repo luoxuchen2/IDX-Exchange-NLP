@@ -1,0 +1,5 @@
+Field,Correct,Verifiable,Extracted,Unsupported Predictions,Accuracy,Coverage
+Bedrooms,18,20,18,0,0.9,0.9
+Bathrooms,19,19,19,0,1.0,1.0
+Price,0,0,0,1,,
+Sqft,10,10,10,0,1.0,1.0
