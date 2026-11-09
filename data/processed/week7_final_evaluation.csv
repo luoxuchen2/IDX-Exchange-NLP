@@ -1,0 +1,31 @@
+query,intent,predicted_intent,confidence
+I'd love to see what kinds of lofts are out there,browsing,browsing,0.6399647004077107
+I'm window shopping for a place with mountain views,browsing,browsing,0.41290320438354194
+show me some unusual homes across the state,browsing,browsing,0.7544459392974407
+wondering what residential properties are listed nearby,browsing,browsing,0.6767921067988785
+just having a look at available vacation cottages,browsing,browsing,0.7040763558556844
+I'm exploring housing styles without any plans to move,browsing,browsing,0.5781297629116359
+what sort of apartments are on the market these days,browsing,browsing,0.5131142537253829
+show me properties with interesting architecture,browsing,browsing,0.7769665464528389
+I'm curious what homes are like in smaller towns,browsing,browsing,0.7830052289783728
+looking at houses for fun while planning my future,browsing,browsing,0.7266995623071755
+how does the age of a building affect its resale price,researching,researching,0.39284296816020264
+which type of property has lower insurance expenses,researching,browsing,0.4700931743786782
+does proximity to a train station increase property value,researching,browsing,0.3658969539927123
+how do condo association rules differ by neighborhood,researching,browsing,0.4193137009233184
+what factors make a home more expensive to maintain,researching,high_intent_inquiry,0.4264550952999266
+is a duplex generally a better investment than a condo,researching,researching,0.6206469035841812
+how does the local job market influence housing demand,researching,researching,0.5933294035264783
+what are the financial tradeoffs of buying an older house,researching,researching,0.4865545560136854
+which housing styles tend to appreciate more slowly,researching,researching,0.43899212706043766
+how do renovation costs compare between different homes,researching,browsing,0.4423551174331308
+could an agent confirm a tour appointment for Thursday,high_intent_inquiry,high_intent_inquiry,0.557066986235035
+I'd like to submit a purchase proposal for this address,high_intent_inquiry,high_intent_inquiry,0.4368281411705873
+please arrange a private inspection of the listed house,high_intent_inquiry,high_intent_inquiry,0.41530282791523365
+who should I call to discuss purchasing this unit,high_intent_inquiry,high_intent_inquiry,0.6168043058878755
+I have financing arranged and would like to visit today,high_intent_inquiry,high_intent_inquiry,0.4154644070800518
+can you help me book an appointment with the property owner,high_intent_inquiry,high_intent_inquiry,0.5377442213124565
+I'd like to request the seller's disclosure before offering,high_intent_inquiry,high_intent_inquiry,0.5743894337640071
+is someone available to show me this address on Friday,high_intent_inquiry,browsing,0.6008854290498274
+please put me in contact with the agent representing this home,high_intent_inquiry,high_intent_inquiry,0.7481634777505076
+I'd like to start the purchase process for this listing,high_intent_inquiry,high_intent_inquiry,0.5156131713424068
